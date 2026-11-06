@@ -29,7 +29,9 @@ The goal is to understand how asynchronous programming makes network-bound appli
 
 ## 📸 Project Snippet
 
-![Concurrent page fetcher benchmark showing timings for sequential fetching and concurrent requests with different limits](<./project_snippet/Screenshot (375).png>)
+
+<img width="1561" height="906" alt="Screenshot (374)" src="https://github.com/user-attachments/assets/b2b96cb2-5a7d-449e-801b-4bab6c482998" />
+<img width="1920" height="1080" alt="Screenshot (375)" src="https://github.com/user-attachments/assets/c18009b5-68bc-4696-b635-e3011d9ece98" />
 
 The screenshot shows a benchmark run comparing the different fetching strategies.
 
